@@ -1,0 +1,23 @@
+.jumbotron h1 {
+    color:indigo
+}
+
+.jumbotron p {
+    color:indigo
+}
+
+.white-text h2 {
+    color: indigo;
+}
+
+.indigo-text p {
+    color: indigo;
+}
+
+.col-md-12 p {
+    color: indigo;
+}
+
+body {
+    background-image: url("bacteria.jpeg");
+}
